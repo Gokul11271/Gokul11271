@@ -1,7 +1,7 @@
 
 # Hi there, I'm Gokul! 👋  
 
-🚀 **B.Sc. Computer Science Student at Nandha Arts and Science College, Erode**  
+🚀 **M.Sc. Computer Science Student at Dr NGP Arts and Science College, Coimbatore**  
 
 💻 **Proficient in** C | Python | JavaScript | HTML | CSS | React | Node.js | MongoDB | SQL  
 
